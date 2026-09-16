@@ -37,3 +37,4 @@ Phiên bản nâng cấp giữ nguyên công thức KPI lõi và bổ sung:
 ```
 
 APK đầu ra nằm tại `app/build/outputs/apk/debug/app-debug.apk`. Android SDK, `local.properties`, keystore và các thư mục build là file môi trường, không commit lên GitHub.
+# kpinus
